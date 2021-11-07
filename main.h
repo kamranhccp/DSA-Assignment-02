@@ -32,7 +32,7 @@ bool Palin(Node* first){
   s.pop();
             if(first -> data != i){
                 return false;
-            }
+            } 
  
            
            first=first->link;
